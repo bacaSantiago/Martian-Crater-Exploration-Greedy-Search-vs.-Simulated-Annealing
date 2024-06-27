@@ -44,7 +44,7 @@ Simulated Annealing outperforms Greedy Search in reaching deeper regions of the 
 - plotly: Utilized for creating interactive 3D visualizations of the surface.
 
 **Resources:**
-- mars_map.IMG (topographic information of the Martian landscape extracted from HiRISE)
+- [mars_map.IMG](https://drive.google.com/file/d/1IJ5QRZ8NcWQh8LFT-xcZuNLNIPtkbB7a/view?usp=share_link) (topographic information of the Martian landscape extracted from HiRISE)
 - mars_2D.png (example image for the introduction of the project)
 - mars_3D.png (example image for the introduction of the project)
 
